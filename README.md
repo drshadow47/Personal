@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sanjeev Kumar</h1>
+<h1 align="center">Hi 👋, I'm 𝓢𝓐𝓝𝓙𝓔𝓔𝓥 𝓚𝓤𝓜𝓐𝓡</h1>
+
 <h3 align="center">Learning mode is always on!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drshadow47&label=Profile%20views&color=0e75b6&style=flat" alt="drshadow47" /> </p>
@@ -7,6 +8,8 @@
 
 - 🌱 I’m Fullstack Mobile and Web Developer  ****
 
+- ☠ Virtual name  :  🅳🆁 🆂🅷🅰🅳🅾🆆
+
 - 💬 Ask me about **Angular, Java, Git & CSS, Android, Kotlin,ioS **
 
 - 📫 How to reach me **sanjeev.sk47@gmail.com**
@@ -14,6 +17,8 @@
 - ⚡ Fun fact **I am not funny. Not at all 👻**
 
 - 🎶 Developer is my Profession but Music is my life and passion.
+
+- 🎶 I love to play Music Instruments like ( Synthesizer and Drums) You can Call me Musician/Singer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
